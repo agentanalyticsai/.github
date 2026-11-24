@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./AAAI_LARGE.svg" width="130" alt="AgentAnalytics.AI Logo" />
+<img src="./AAAI_LARGE.png" width="60" alt="AgentAnalytics.AI Logo" />
 
 # AgentAnalytics.AI
 
